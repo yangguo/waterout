@@ -132,8 +132,6 @@ python -m unittest discover tests
 ```
 waterout.py          # batch processor (main CLI)
 enhance_one.py       # single-image helper CLI
-scripts/
-  probe_hunyuan.py   # dev utility: probe Hunyuan endpoints
 tests/
   test_waterout.py
   test_enhance_one.py
